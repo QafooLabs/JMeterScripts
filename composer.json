@@ -1,0 +1,7 @@
+{
+    "require": {
+        "zetacomponents/Graph": "@stable"
+    },
+
+    "preferred-install": "dist"
+}
